@@ -1,0 +1,10 @@
+h1. Spree Export Orders
+
+Provides functionality to export order reports on a per-product basis
+
+h2. Requirements
+
+* FasterCSV, "http://rubyforge.org/projects/fastercsv/":http://rubyforge.org/projects/fastercsv/
+* Haml, "http://haml-lang.com/":http://haml-lang.com/
+
+Copyright (c) 2010, Brandon Calloway.  Released under the MIT license.
